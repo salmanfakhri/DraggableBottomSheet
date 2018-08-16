@@ -2,7 +2,7 @@
 
 DraggableBottomSheet is a way to partially present view controllers in a way similar to Apple Maps in iOS 10. With this implementation you can interact with both view controllers that have been presented.
 
-[demogif](demogit.gif) 
+![demogif](demogif.gif) 
 
 ## Installation
 
